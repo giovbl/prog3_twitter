@@ -16,8 +16,9 @@ There is also an user with administrator privileges that can:
 
 ## Pages
 
-![Pages](login.png)
+![Pages](pages.png)
 
-#Copyright
+## Copyright
+
 This project is distributed under xx license
 The project contains Twitter's name and logo. It is not affiliated in any way with Twitter, and they retain their right on the name and logo.
