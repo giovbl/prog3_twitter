@@ -20,5 +20,5 @@ There is also an user with administrator privileges that can:
 
 ## Copyright
 
-This project is distributed under xx license
+This project is distributed under GNU General Public License v2.0
 The project contains Twitter's name and logo. It is not affiliated in any way with Twitter, and they retain their right on the name and logo.
